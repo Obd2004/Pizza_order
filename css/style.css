@@ -1,0 +1,104 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+.btn1{
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 30px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+.yumaloq{
+    display: flex;
+    align-items: center;
+}
+#slc{
+    width: 200px;
+    height: 25px;
+    padding: 0 5px;
+}
+.bezaklar{
+    display: flex;
+    align-items: center;
+}
+#inp1{
+    margin-top: 20px;
+}
+#lbl{
+    position: relative;
+    bottom: 25px;
+    right: 20px;
+    margin-left: 20px;
+}
+.qosh{
+    display: flex;
+}
+#lbl2{
+    position: relative;
+    right: 56px;
+    margin-left: 56px;
+}
+.wrapper{
+    display: flex;
+}
+.first{
+    position: relative;
+    right: 70px;
+}
+.second{
+    position: relative;
+    left: 250px;
+}
+.h1{
+    position: relative;
+    left: 180px;
+}
+.nn{
+    display: flex;
+}
+#non{
+    position: relative;
+    top: 25px;
+    left: 5px;
+}
+.kk{
+    display: flex;
+}
+.btn0{
+    border-radius: 50%;
+    border: 1px solid black;
+    padding: 30px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    background-color: transparent;
+}
+#kt{
+    position: relative;
+    top: 25px;
+    left: 5px;
+}
+.btn{
+    padding: 30px 20px;
+    border-radius: 50%;
+    margin-left: 10px;
+    border: 1px solid black;
+    background-color: transparent;
+}
+.btnb{
+    padding: 10px 10px;
+    background-color: #ff0000dc;
+    border: none;
+    color: #ffffffea;
+    cursor: pointer;
+}
+.btnb:active{
+    margin-top: 3px;
+    background-color: #ff1919e7;
+}
+.non{
+    width: 170px;
+    height: 20px;
+}
